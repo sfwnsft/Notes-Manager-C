@@ -1,4 +1,4 @@
-# Notes-Manager-C
+# Notes Manager C
 A simple and efficient terminal-based notes manager written in C. It is perfect for storing course notes, code snippets, algorithms, Git commands, or any text-based documents. Designed with dynamic memory allocation, this program can handle very large notes without crashing.
 
 Features:
