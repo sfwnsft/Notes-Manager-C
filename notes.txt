@@ -1,0 +1,2 @@
+Hi, this is a simple C programme that helps you take notes and manage them.
+
